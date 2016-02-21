@@ -6,13 +6,13 @@ color:
     - '#808080'
     - '#000000'
     - '#000000'
-  brandStrength: 0.024693828170974763
-  lightness: 0.1906141711151066
-  rhythmicContrast: 0.8032254322721414
-  saturation: 0.5443555115369388
+  brandStrength: 1
+  lightness: 0.506757
+  rhythmicContrast: 0.803225
+  saturation: 0.544355
 cta: {}
 layout_spectrum: 0.576577
 name: 'Robert Myers, Psychotherapist'
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.393018
+typography_spectrum: 0.796171
