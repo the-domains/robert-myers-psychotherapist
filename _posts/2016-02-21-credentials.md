@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Robert Myers
-    url: 'https://robertmyerslcpc.wordpress.com/author/robertmyerslcpc/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://robertmyerslcpc.wordpress.com'
-  name: 'Robert Myers, Psychotherapist'
-  favicon: 'https://secure.gravatar.com/blavatar/688278e5e07c6d466a77c5f589a7596f?s=16'
-  domain: robertmyerslcpc.wordpress.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - counselor
   - trauma
@@ -21,17 +16,24 @@ keywords:
   - cc2007
   - families-pre-adolescent
 description: 'Master of Arts Degree in Counseling Psychology with Emphasis in Depth Psychology awarded 5/98 from Pacifica Graduate Institute of California; Licensed Clinical Professional Counselor, #CC2007, originally licensed: 5/00. This counselor is, by training, prepared to offer psychotherapy to individuals, couples, and families-pre-adolescent through adult. This counselor defers to a client-centered, trauma-sensitive, strengths perspective as the...'
-inLanguage: en
+datePublished: '2016-02-21T22:43:44.484Z'
+dateModified: '2016-02-21T22:43:34.532Z'
+author:
+  - name: Robert Myers
+    url: 'https://robertmyerslcpc.wordpress.com/author/robertmyerslcpc/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://robertmyerslcpc.wordpress.com/credentials/'
 title: Credentials
-datePublished: '2016-02-21T14:40:18.979Z'
-dateModified: '2016-02-21T14:17:47.384Z'
 sourcePath: _posts/2016-02-21-credentials.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Robert Myers, Psychotherapist'
+  domain: robertmyerslcpc.wordpress.com
+  url: 'http://robertmyerslcpc.wordpress.com'
+  favicon: 'https://secure.gravatar.com/blavatar/688278e5e07c6d466a77c5f589a7596f?s=16'
+url: credentials/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
