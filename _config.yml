@@ -8,7 +8,7 @@ color:
     - '#000000'
   brandStrength: 0.601351
   lightness: 0.763514
-  rhythmicContrast: 0.634009
+  rhythmicContrast: 0.10473
   saturation: 0.834459
 cta: {}
 layout_spectrum: 0.876126
