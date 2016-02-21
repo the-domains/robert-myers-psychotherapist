@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert Myers, Psychotherapist]]></title>
+        <description><![CDATA[Robert Myers, Psychotherapist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 05:33:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robert Myers, Psychotherapist ǀ Solution Focused, Depth Therapy for Individuals, Couples, and Families ǀ Portland, ME - Home]]></title>
+            <description><![CDATA[<article><h1>Robert Myers, Psychotherapist ǀ Solution Focused, Depth Therapy for Individuals, Couples, and Families ǀ Portland, ME - Home</h1><p>As a psychotherapist I have assisted individuals, couples, and families to become healthier in their relationships. Call me at (207) 409-6226.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fd479eb29ee89816863bb0d6cf8a43e9730b92b.png"></article>]]></description>
+            <link>http://m.robertmyerslcpc.com/</link>
+            <guid isPermaLink="false">0d17dacc-5abc-4519-b116-98e6ab95fcb4</guid>
+            <pubDate>Sun, 21 Feb 2016 05:33:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
