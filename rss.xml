@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Robert Myers, Psychotherapist]]></title>
         <description><![CDATA[Robert Myers, Psychotherapist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-myers-psychotherapist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 14:23:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 14:41:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-myers-psychotherapist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Credentials]]></title>
+            <description><![CDATA[<article><h1>Credentials</h1><p>Master of Arts Degree in Counseling Psychology with Emphasis in Depth Psychology awarded 5/98 from Pacifica Graduate Institute of California; Licensed Clinical Professional Counselor, #CC2007, originally licensed: 5/00. This counselor is, by training, prepared to offer psychotherapy to individuals, couples, and families-pre-adolescent through adult. This counselor defers to a client-centered, trauma-sensitive, strengths perspective as the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da24d0161e56b512821b098e1ebd3cd3680a4351.jpg"></article>]]></description>
+            <link>https://robertmyerslcpc.wordpress.com/credentials/</link>
+            <guid isPermaLink="false">ecf94022-8c02-4924-ae3a-aca54f6dbdba</guid>
+            <pubDate>Sun, 21 Feb 2016 14:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Time & Temperature Building 477 Congress Street, Suite 403 Portland, ME 04101-3431 (207) 409-6226 robert@robertmyerslcpc.com http://www.RobertMyersLCPC.com For interactive directions clic Google Maps. The office is on the fourth floor. Robert is affiliated with and Sweetser Services. Clic the banner below to further explore this esteemed community provider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f7553005d543219045c20f4b01502108108031.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact</h1><p>Time & Temperature Building 477 Congress Street, Suite 403 Portland, ME 04101-3431 (207) 409-6226 robert@robertmyerslcpc.com http://www.RobertMyersLCPC.com For interactive directions clic Google Maps. The office is on the fourth floor. Robert is affiliated with and Sweetser Services. Clic the banner below to further explore this esteemed community provider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9308ab778195267e6dc045cbff43c23afc25d3ae.jpg"></article>]]></description>
             <link>https://robertmyerslcpc.wordpress.com/contact/</link>
             <guid isPermaLink="false">ce55ef68-5b81-4a85-89ff-32cad7e6cd60</guid>
             <pubDate>Sun, 21 Feb 2016 14:23:12 GMT</pubDate>
