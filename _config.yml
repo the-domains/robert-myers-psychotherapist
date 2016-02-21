@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#C0C0C0'
+    - '#000000'
+    - '#808080'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.024693828170974763
   lightness: 0.1906141711151066
   rhythmicContrast: 0.8032254322721414
   saturation: 0.5443555115369388
 cta: {}
-layout_spectrum: 0.937148745910772
+layout_spectrum: 0.576577
 name: 'Robert Myers, Psychotherapist'
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.8838411166207489
+typography_spectrum: 0.393018
