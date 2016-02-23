@@ -1,20 +1,4 @@
-name: 'Robert Myers, Psychotherapist'
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.809685
-title: 'Robert Myers, Psychotherapist'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#C0C0C0'
@@ -24,9 +8,12 @@ color:
     - '#000000'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.6875
   rhythmicContrast: 0.5
+  saturation: 0.546171
+cta: {}
+layout_spectrum: 0
+name: 'Robert Myers, Psychotherapist'
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.809685
