@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.robertmyerslcpc.com'
-  name: Robertmyerslcpc
-  favicon: null
-  domain: www.robertmyerslcpc.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.robertmyerslcpc.com/index.html'
+inLanguage: en
+starred: false
 keywords:
   - addiction
   - creative
@@ -18,17 +17,20 @@ keywords:
   - person
   - astute
 description: 'As a psychotherapist I have assisted individuals, couples, and families to become healthier in their relationships. Call me at (207) 409-6226.'
-inLanguage: en
+datePublished: '2016-02-23T19:42:08.235Z'
+dateModified: '2016-02-21T22:37:32.111Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.robertmyerslcpc.com/index.html'
 title: 'Robert Myers, Psychotherapist'
-datePublished: '2016-02-21T22:33:35.513Z'
-dateModified: '2016-02-21T22:32:57.744Z'
 sourcePath: _posts/2016-02-21-robert-myers-psychotherapist.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Robertmyerslcpc
+  domain: www.robertmyerslcpc.com
+  url: 'http://www.robertmyerslcpc.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
