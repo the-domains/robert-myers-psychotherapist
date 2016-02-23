@@ -1,6 +1,6 @@
 name: 'Robert Myers, Psychotherapist'
 favicon: null
-layout_spectrum: 0.876126
+layout_spectrum: 0.09305
 typography_spectrum: 0.809685
 title: 'Robert Myers, Psychotherapist'
 cta:
@@ -23,9 +23,9 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose:
   - name: null
     item: null
