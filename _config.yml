@@ -1,19 +1,31 @@
+cta: {}
+layout_spectrum: 0
 analytics: {}
+name: 'Robert Myers, Psychotherapist'
+purpose:
+  - {}
 color:
+  brandStrength: 0
+  saturation: 0.596847
   brandColors:
     - '#C0C0C0'
     - '#000000'
     - '#808080'
     - '#000000'
     - '#000000'
-  brandStrength: 0
   lightness: 0.507883
   rhythmicContrast: 0
-  saturation: 0.596847
-cta: {}
-layout_spectrum: 0
-name: 'Robert Myers, Psychotherapist'
-opengraph: {}
-purpose:
-  - {}
 typography_spectrum: 0.809685
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+opengraph: {}
