@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T04:14:31.692Z'
-dateModified: '2016-03-05T04:04:10.899Z'
+datePublished: '2016-03-05T21:18:41.134Z'
+dateModified: '2016-03-05T04:14:39.700Z'
 title: 'Robert Myers, Psychotherapist | Solution Focused, Depth Psychotherapy for Individuals, Couples, and Families | Portland, Maine'
 author: []
 sourcePath: _posts/2016-03-03-robert-myers-psychotherapist-or-solution-focused-depth-psyc.md
