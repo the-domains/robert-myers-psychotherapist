@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T04:14:00.353Z'
-dateModified: '2016-03-05T04:13:28.119Z'
+datePublished: '2016-03-05T04:17:56.150Z'
+dateModified: '2016-03-05T04:14:07.470Z'
 title: 'I am a psychotherapist trained in the Depth tradition of Carl Jung, James Hillman, and Joseph Campbell.'
 author: []
 sourcePath: _posts/2016-03-04-i-am-a-psychotherapist-trained-in-the-depth-tradition-of-car.md
