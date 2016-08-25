@@ -38,5 +38,7 @@ collections:
     permalink:
       path: '/:title/'
 title: 'Robert Myers, Psychotherapist '
-description: 'Solution Focused, Depth Psychotherapy for Individuals, Couples, and Families'
+description: >-
+  Solution Focused, Depth Psychotherapy for Individuals, Couples, and Families |
+  Portland, Maine
 purpose: []
