@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: 'Robert Myers, Psychotherapist'
+name: 'Robert Myers, Psychotherapist '
 cta:
   domain: null
   bucket: null
@@ -28,6 +28,9 @@ navigation:
   - name: Blog
     url: 'https://robertmyerslcpc.wordpress.com/'
     type: external
+  - name: Credentials
+    id: ce55ef68-5b81-4a85-89ff-32cad7e6cd60
+    type: content
 favicon: null
 collections:
   - index:
