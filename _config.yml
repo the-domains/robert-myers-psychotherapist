@@ -34,12 +34,12 @@ navigation:
   - name: Course of Treatment
     id: a11fe776-d964-4ea0-a419-3fe9daea9ac2
     type: content
-  - name: Links
-    id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
-    type: content
   - name: Blog
     url: 'https://robertmyerslcpc.wordpress.com/'
     type: external
+  - name: Links
+    id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
+    type: content
 favicon: null
 collections:
   - index:
