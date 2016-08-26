@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Blog
-    url: 'https://robertmyerslcpc.wordpress.com/'
-    type: external
   - name: Credentials
     id: ce55ef68-5b81-4a85-89ff-32cad7e6cd60
     type: content
@@ -40,6 +37,9 @@ navigation:
   - name: Links
     id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
     type: content
+  - name: Blog
+    url: 'https://robertmyerslcpc.wordpress.com/'
+    type: external
 favicon: null
 collections:
   - index:
