@@ -1,20 +1,19 @@
 ---
-description: Make a Payment
-dateModified: '2016-08-26T01:35:08.188Z'
-datePublished: '2016-08-26T01:35:11.053Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-26T01:35:51.230Z'
 sourcePath: _posts/2016-08-26-make-a-payment.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-26T01:35:50.642Z'
+title: Make a Payment
+publisher: {}
+description: 'Please click here to make a payment via PayPal a secure way to tender funds. '
+starred: false
+url: make-a-payment/index.html
+_type: Blurb
 
 ---
-Make a Payment
+# Make a Payment
 
 Please click _[here][0]_ to make a payment via PayPal a secure way to tender funds. 
 
