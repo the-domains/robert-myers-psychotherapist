@@ -31,6 +31,9 @@ navigation:
   - name: Credentials
     id: ce55ef68-5b81-4a85-89ff-32cad7e6cd60
     type: content
+  - name: Course of Treatment
+    id: a11fe776-d964-4ea0-a419-3fe9daea9ac2
+    type: content
 favicon: null
 collections:
   - index:
