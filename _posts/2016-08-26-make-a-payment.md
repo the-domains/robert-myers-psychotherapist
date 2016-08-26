@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T01:35:51.230Z'
+datePublished: '2016-08-26T01:36:31.480Z'
 sourcePath: _posts/2016-08-26-make-a-payment.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T01:35:50.642Z'
+dateModified: '2016-08-26T01:36:30.979Z'
 title: Make a Payment
 publisher: {}
 description: 'Please click here to make a payment via PayPal a secure way to tender funds. '
