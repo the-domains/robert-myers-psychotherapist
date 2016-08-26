@@ -37,6 +37,9 @@ navigation:
   - name: 'Fees, Insurance, Protocols'
     id: b2e34ff5-b953-4631-9bd8-107e1ae31386
     type: content
+  - name: Links
+    id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
+    type: content
 favicon: null
 collections:
   - index:
