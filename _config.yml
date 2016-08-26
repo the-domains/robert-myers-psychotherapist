@@ -40,6 +40,9 @@ navigation:
   - name: Links
     id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
     type: content
+  - name: Make a Payment
+    id: 72421933-34f0-4b35-aac5-6b1ef586b6db
+    type: content
 favicon: null
 collections:
   - index:
