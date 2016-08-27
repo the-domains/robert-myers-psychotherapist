@@ -37,12 +37,12 @@ navigation:
   - name: Links
     id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
     type: content
-  - name: Blog
-    url: 'https://robertmyerslcpc.wordpress.com/'
-    type: external
   - name: Contact
     id: de44d5cb-d271-450c-b50c-ac21c802d5c3
     type: content
+  - name: Blog
+    url: 'https://robertmyerslcpc.wordpress.com/'
+    type: external
 favicon: null
 collections:
   - index:
