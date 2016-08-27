@@ -40,6 +40,9 @@ navigation:
   - name: Blog
     url: 'https://robertmyerslcpc.wordpress.com/'
     type: external
+  - name: Contact
+    id: de44d5cb-d271-450c-b50c-ac21c802d5c3
+    type: content
 favicon: null
 collections:
   - index:
