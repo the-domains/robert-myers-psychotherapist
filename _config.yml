@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: 'Robert Myers, LCPC'
+  email: robert@robertmyerslcpc.com
+  url: 'http://www.robertmyerslcpc.com'
 name: 'Robert Myers, Psychotherapist '
 cta:
   domain: null
