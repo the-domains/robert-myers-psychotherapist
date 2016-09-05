@@ -1,4 +1,3 @@
-layout_spectrum: 0.6195534768048674
 typography_spectrum: 0.5640077027492225
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6195534768048674
 analytics:
   google: UA-83312363-1
   facebook: null
@@ -35,11 +35,11 @@ navigation:
   - name: 'Fees, Insurance, Protocols'
     id: b2e34ff5-b953-4631-9bd8-107e1ae31386
     type: content
-  - name: Course of Treatment
-    id: a11fe776-d964-4ea0-a419-3fe9daea9ac2
-    type: content
   - name: Contact
     id: de44d5cb-d271-450c-b50c-ac21c802d5c3
+    type: content
+  - name: Course of Treatment
+    id: a11fe776-d964-4ea0-a419-3fe9daea9ac2
     type: content
   - name: Links
     id: 546a9bae-9e11-49d2-ba44-530caa1d0e4f
